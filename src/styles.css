@@ -1,0 +1,8 @@
+.euiBody--headerIsFixed {
+  padding-top: 48px;
+}
+
+.euiBody--headerIsFixed .euiCollapsibleNav {
+  top: 48px;
+  height: calc(100% - 48px);
+}
